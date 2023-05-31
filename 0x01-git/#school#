@@ -1,0 +1,5 @@
+#!/bin/bash
+<<<<<<< HEAD
+echo "School is so cool!"
+=======
+echo "The school is open!"
